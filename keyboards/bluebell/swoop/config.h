@@ -15,7 +15,7 @@
  */
 #pragma once
 
-#define EE_HANDS
+#define MASTER_LEFT 
 
 // OLED driver
 #ifdef OLED_DRIVER_ENABLE
@@ -24,3 +24,4 @@
 #endif
 
 #define TAPPING_TERM 200
+
